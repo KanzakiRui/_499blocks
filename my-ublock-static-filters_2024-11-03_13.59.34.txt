@@ -1,0 +1,138 @@
+@@*$redirect-rule
+! Jul 2, 2024 https://www.pornhub.com
+www.pornhub.com##.commentText
+www.pornhub.com##.commentsHeading
+www.pornhub.com##.loadComments.gtm-event-watch-page
+www.pornhub.com##.mostPopularComment
+www.pornhub.com##.eudsaLink.blackBtn.buttonClass
+
+! Jul 2, 2024 https://www.reddit.com
+www.reddit.com##xpromo-untagged-content-blocking-modal
+
+! Jul 2, 2024 https://www.xvideos.com
+www.xvideos.com##.thread-header
+www.xvideos.com##.thread-node-poster
+www.xvideos.com##.thread-node-children-loader
+
+! Jul 20, 2024 https://nx9nemngdhk.feishu.cn
+nx9nemngdhk.feishu.cn##.login-guide-base-h5-v2__background-normal.login-guide-base-h5-v2__container
+nx9nemngdhk.feishu.cn##.login-button-h5__button.ud__button--size-lg.ud__button--round.ud__button--filled-default.ud__button--filled.ud__button
+nx9nemngdhk.feishu.cn##.annoymous-mask
+
+! Jul 22, 2024 https://hanime.tv
+
+
+
+
+
+
+! Jul 23, 2024 https://www.xvideos.com
+www.xvideos.com##.overflow.tab
+
+! Jul 25, 2024 https://myanimelist.net
+myanimelist.net##.modal-container
+
+! Aug 2, 2024 https://anitaku.pe
+anitaku.pe##.notice-400
+||anitaku.pe/img/bg-main-3.png$image
+||anitaku.pe/img/bg-main-3.png$image
+||anitaku.pe/img/bg-main-3.png$image
+
+! Aug 3, 2024 https://hanime.tv
+hanime.tv##.user_comments
+
+! Aug 6, 2024 shopee.com
+shopee.com
+
+! Aug 8, 2024 https://www.iwara.tv
+www.iwara.tv##.comment__content
+www.iwara.tv##.text--bold.text--h2.mb-2.text
+www.iwara.tv##.comment__byline > .text--small.text
+www.iwara.tv##.mb-4.mt-4.comments > .row > .col-12
+www.iwara.tv##.text--muted.text--italic.text--center.text
+
+! Aug 9, 2024 https://x.com
+x.com##.r-dnmrzs.r-1wbh5a2.css-175oi2r > .r-13qz1uu.r-1adg3ll.r-bztko3.css-175oi2r > .r-13qz1uu.r-ipm5af.r-u8s1d.r-1d2f490.r-1pi2tsx.r-1p0dtai > .r-bztko3.r-176fswd.r-1v2oles.r-u8s1d.r-45ll9u.r-13qz1uu.r-1pi2tsx.r-1adg3ll.css-175oi2r > .r-13qz1uu.r-ipm5af.r-u8s1d.r-1d2f490.r-1pi2tsx.r-1p0dtai
+x.com##.r-1ny4l3l.r-6416eg.r-o7ynqc.r-1loqt21.r-ubg91z.r-kritb0.css-175oi2r
+x.com##.r-1ny4l3l.r-ubg91z.r-kritb0.r-1wtj0ep.css-175oi2r
+x.com##.r-1loqt21.r-1ny4l3l.r-6416eg.r-o7ynqc.r-ubg91z.r-1d7mnkm.css-175oi2r > .r-16dba41.r-hjklzo.r-1b43r93.r-37j5jr.r-qvutc0.r-1ttztb7.r-bcqeeo.css-146c3p1
+x.com##.r-1loqt21.r-1ny4l3l.r-6416eg.r-o7ynqc.r-ubg91z.r-1d7mnkm.css-175oi2r
+
+! Aug 9, 2024 https://nhentai.net
+nhentai.net###comment-post-container
+nhentai.net###comment-container
+
+! Aug 16, 2024 https://booru.allthefallen.moe
+||booru.allthefallen.moe/images/atfbooru_banner.jpg$image
+
+! Aug 27, 2024 https://hianime.to
+hianime.to##.ina-flex
+hianime.to##.anif-block-01.anif-block > .anif-block-ul > .ulclear > li
+hianime.to###discussion
+hianime.to##.share-buttons-block
+hianime.to##.block_area_trending.block_area
+
+! Aug 27, 2024 https://hanime.tv
+hanime.tv##.parallax-content
+hanime.tv##.align-center.column.flex.community_uploads
+hanime.tv##div:nth-of-type(1) > .mb-5.htv-carousel-container.lazy
+
+! Sep 4, 2024 https://mangabuddy.com
+mangabuddy.com##.notice-box
+
+! Oct 2, 2024 https://chan.sankakucomplex.com
+chan.sankakucomplex.com##.companion--row
+chan.sankakucomplex.com##.topbar-carousel.carousel
+chan.sankakucomplex.com##.companion--draggable_element
+chan.sankakucomplex.com##div#sp1.scad
+chan.sankakucomplex.com##div.carousel > h5
+chan.sankakucomplex.com##div.carousel:nth-of-type(1)
+chan.sankakucomplex.com##.ai-carousel.carousel
+
+! Oct 3, 2024 https://idol.sankakucomplex.com
+idol.sankakucomplex.com##.topbar-carousel.carousel
+idol.sankakucomplex.com##.premium-carousel.carousel
+idol.sankakucomplex.com##.news-carousel.carousel
+
+! Oct 4, 2024 http://www.erocosplay.org
+www.erocosplay.org##.popBo
+www.erocosplay.org##.popSc
+
+! Oct 14, 2024 https://gelbooru.com
+gelbooru.com##.mainBodyPadding > center
+
+! Oct 15, 2024 https://chan.sankakucomplex.com
+chan.sankakucomplex.com##.response-list
+chan.sankakucomplex.com###comments > div
+
+! Oct 15, 2024 https://www.iwara.tv
+www.iwara.tv##[href="/page/announcement-wura/"]
+www.iwara.tv##.container-fluid > .justify-content-center.row
+
+! reddit
+www.redditstatic.com/shreddit/*xpromo-nsfw-blocking-modal-*.js
+www.redditstatic.com/shreddit*xpromo-nsfw-blocking-modal-*.js$script,domain=www.reddit.com
+www.reddit.com##div.prompt
+
+! Oct 17, 2024 https://www.iwara.tv
+www.iwara.tv##.mb-4.mt-4.comments
+www.iwara.tv##.page-video__sidebar.col-md-3.col-12 > div.block--margin.block--padding.block:nth-of-type(1)
+
+! Oct 18, 2024 https://chan.sankakucomplex.com
+chan.sankakucomplex.com###sank-prestitial
+
+! Oct 19, 2024 https://gelbooru.com
+gelbooru.com##div:nth-of-type(8)
+gelbooru.com##div:nth-of-type(10)
+
+! Oct 27, 2024 https://kemono.su
+kemono.su##[href="https://kemono.su/matrix"]
+
+! Nov 1, 2024 https://chan.sankakucomplex.com
+chan.sankakucomplex.com##.has-mail
+chan.sankakucomplex.com###news-ticker
+chan.sankakucomplex.com##.news-carousel.carousel
+chan.sankakucomplex.com##li:nth-of-type(2) > [href^="https://chan.sankakucomplex.com/"]
+
+/pagead.js$domain=d3ward.github.io
+/widget/ads.
